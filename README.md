@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @mirandallydia
+- 👋 Hi, I’m @Magicdadjokes
 - 👀 I’m interested in game design
-- 🌱 I’m currently a first year student @mica
-- 📫 How to reach me @mirandallydia twitt and insta
+- 🌱 Currently a Junior Game Design Major
+  Bookarts and SqeArts Minor at MICA
+- 📫 How to reach me @mirandallydia Twitter and insta
 
 <!---
 mirandallydia/mirandallydia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
