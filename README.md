@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Magicdadjokes
-- 👀 I’m interested in game design
-- 🌱 Currently a Junior Game Design Major
-  Bookarts and SqeArts Minor at MICA
+- 👀 I’m interested in project management and narative design in Game Design
+- 🌱 Currently a Senior Game Design Major
+  Bookarts Minor at MICA
 - 📫 How to reach me @magicdadjokes Twitter and insta
 
 <!---
